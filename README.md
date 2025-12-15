@@ -2,6 +2,13 @@
 
          A Technology Information System (IS) combines hardware, software, data, people, and processes to collect, store, process, 
          and distribute information, enabling organizations to operate efficiently, make decisions, and gain a competitive edge.
+# ACCESS NOTE AND ASSIGNMENT
+[SECP](https://limlining.github.io/web-note/SECP.html)
+
+# UTM DIGITAL
+![utmdigital](https://raw.githubusercontent.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/main/photo_2025-12-15_21-20-01.jpg)
+
+28/10/2025 student secph already attending UTM DIGITAL. We all visit booth and attending the talk from UTM STAFF. In talk, interviews part must no less so we try to ask questions to our Staff and record some moment the scene during all sessions in UTM DIGITAL
  
 # Mainframe Computer
 ![Mainframe](https://raw.githubusercontent.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/main/photo_2025-12-14_21-34-19.jpg)
