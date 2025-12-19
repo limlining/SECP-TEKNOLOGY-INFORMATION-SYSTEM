@@ -31,4 +31,7 @@ Attending the ASEAN Quantum Summit at Universiti Teknologi Malaysia on 11 Decemb
 
 I was also inspired by how countries in ASEAN, like Singapore, plan their quantum research carefully and link it to real-world applications. It made me realise that even smaller nations can do well in advanced technology if they focus on planning and teamwork. The summit motivated me to keep up with quantum technology and think about how I could contribute to innovation in the future
 
+# INDUSTRY TALK 2
+![industry talk 2](https://raw.githubusercontent.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/main/WhatsApp%20Image%202025-12-18%20at%2022.24.55_c7593ce0.jpg)
 
+This talk made me realize how important project management and SDLC are in both school and IT work. At first, I thought SDLC wasn’t very useful, but examples like cooking, packing, and building a house showed me it’s really just structured planning we already do. I also learned that coding skills alone aren’t enough—being in planing and manage a project so we need softskill and technical skill. The difference between Waterfall and Agile helped me understand why flexibility matters in real projects. The part about AI also realised me that we can harness smartly. Overall, I feel that as a student so I should focus more on understanding concepts and keep learning.
