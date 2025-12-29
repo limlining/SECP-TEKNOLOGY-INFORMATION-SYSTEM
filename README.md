@@ -8,8 +8,10 @@
 # UTM DIGITAL
 ![utmdigital](https://raw.githubusercontent.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/main/photo_2025-12-15_21-20-01.jpg)
 
-28/10/2025 student secph already attending UTM DIGITAL. We all visit booth and attending the talk from UTM STAFF. In talk, interviews part must no less so we try to ask questions to our Staff and record some moment the scene during all sessions in UTM DIGITAL
- 
+28/10/2025 student secph already attending UTM DIGITAL. We all visit booth and attending the talk from UTM STAFF.We had a chance to visit the UTM Digital Open Day 2025, which was joined by almost 100 students and was accompanied by our lecturer, Dr. Aryati Bt. Bakri, the Academic Assistant Coordinator of Data Engineering. During the visit, we spent time at many interesting booths featuring creative innovative projects and ideas. It meant so much to experience, connect, and get inspired by such passionate individuals and organizations. We even went on an exploration tour of various digital initiatives, participated in Q&A sessions with the speakers, and were even given gifts.
+
+[VIDEO](https://drive.google.com/file/d/1f6BkmioiDYqIsGSqNTo4i94atBp7lb5m/view?usp=sharing)
+
 # Mainframe Computer
 ![Mainframe](https://raw.githubusercontent.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/main/photo_2025-12-14_21-34-19.jpg)
 
