@@ -2,8 +2,14 @@
 
          A Technology Information System (IS) combines hardware, software, data, people, and processes to collect, store, process, 
          and distribute information, enabling organizations to operate efficiently, make decisions, and gain a competitive edge.
-# ACCESS NOTE AND ASSIGNMENT
-[SECP](https://limlining.github.io/web-note/SECP.html)
+# ✈️ ACCESS NOTE AND ASSIGNMENT
+|**SECP**|   CLICK  | 
+|-------------|---------------------------------|
+| **NOTE**|   [NOTE](https://limlining.github.io/web-note/note.html) | 
+| **ASSIGNMENT**|   [ASSIGNMENT](https://limlining.github.io/web-note/assigment.html)  | 
+| **PROJECT**|   [PROJECT](https://limlining.github.io/web-note/project.html)  | 
+
+
 
 # UTM DIGITAL
 ![utmdigital](https://raw.githubusercontent.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/main/photo_2025-12-15_21-20-01.jpg)
