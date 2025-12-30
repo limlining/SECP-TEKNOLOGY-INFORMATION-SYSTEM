@@ -1,9 +1,10 @@
 # SECP-TEKNOLOGY-INFORMATION-SYSTEM
 
-         A Technology Information System (IS) combines hardware, software, data, people, and processes to collect, store, process, 
-         and distribute information, enabling organizations to operate efficiently, make decisions, and gain a competitive edge.
-         Before learning this course, I doesn't understand why this course essential in this course.Now, I notice that this course enhance
-         basic skill, communication skil and physical skill since enhance my confident. 
+        A Technology Information System (IS) is an integration of hardware, software, data, people, and operations used to gather, store, process,
+        or distribute information that assists in running organizations more effectively.Previously, when I did not take this course, I did not know the
+        importance of this subject. But after joining the classes, I understood the importance. Taking this course has helped me enhance my basic skills,
+        communication skills, and even practical skills. In this course, I have learned many things, and it has helped me increase confidence in putting 
+        forward my ideas and collaborating with others. This course has helped me understand the usage of information systems in practical life. 
 # ✈️ ACCESS NOTE AND ASSIGNMENT
 |**SECP**|   CLICK  | 
 |-------------|---------------------------------|
