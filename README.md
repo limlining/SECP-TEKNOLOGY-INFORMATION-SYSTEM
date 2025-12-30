@@ -2,6 +2,8 @@
 
          A Technology Information System (IS) combines hardware, software, data, people, and processes to collect, store, process, 
          and distribute information, enabling organizations to operate efficiently, make decisions, and gain a competitive edge.
+         Before learning this course, I doesn't understand why this course essential in this course.Now, I notice that this course enhance
+         basic skill, communication skil and physical skill since enhance my confident. 
 # ✈️ ACCESS NOTE AND ASSIGNMENT
 |**SECP**|   CLICK  | 
 |-------------|---------------------------------|
