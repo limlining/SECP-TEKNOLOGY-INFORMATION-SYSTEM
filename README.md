@@ -45,3 +45,12 @@ I was also inspired by how countries in ASEAN, like Singapore, plan their quantu
 This talk made me realize how important project management and SDLC are in both school and IT work. At first, I thought SDLC wasn’t very useful, but examples like cooking, packing, and building a house showed me it’s really just structured planning we already do. I also learned that coding skills alone aren’t enough—being in planing and manage a project so we need softskill and technical skill. The difference between Waterfall and Agile helped me understand why flexibility matters in real projects. The part about AI also realised me that we can harness smartly. Overall, I feel that as a student so I should focus more on understanding concepts and keep learning.
 
 assignment: [ASSIGNMEMT](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/blob/main/ASSIGNMENT%203.docx)
+
+# PROJECT
+![lab2](https://raw.githubusercontent.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/main/Screenshot%202025-12-30%20224515.png)
+1.	My goal to become a professional data engineer. Since my course is data engineering, I should more struggle to design, build data robust, manage infrastructure, ensure quality and more essential is collaborate with my team. Not only that, keep learning all of the basic skill and softskill to feel more confident in preparing for my future career in computer science.
+2.	This project enhace my communication skill between different ethnic. Before this project, I felt that generation gap with my teammates. However, as we work together we solve the problem together and contribute the ideas to finished the project, the communication between ethinic much easier. Besided that, I learn the writing skill through the report of the project. Actually, writting isn’t my strongest suit but working on this report gave me a change to practice it. For instance, using design thinking forced me to really learn the details of loT. I believe that this skill help me better in my future career and also the next project and assigment.
+3.	To enhance my potential in the industry, I plan to more reading to generate more ideas about design thinking and gain deeper insights through youtube, news and other platform. I also will focus more on understanding concepts and keep learning whatever in future or currently. Additionaly, I will do more project by joining club which is Airost to learn more. 
+
+project:[PROJECT](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/blob/main/DESIGN%20THINKING%20GROUP6.docx)
+
