@@ -57,3 +57,8 @@ assignment: [ASSIGNMEMT](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION
 
 project:[PROJECT](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/blob/main/DESIGN%20THINKING%20GROUP6.docx)
 
+# INDUSRTY VISIT
+![visit](https://raw.githubusercontent.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/main/WhatsApp%20Image%202026-01-08%20at%2012.32.54.jpeg)
+
+On 7/1/2026, I got opportunity to attend an industry visit to company JCORP in Johor Bahru 。Mr. Budiman Bujang gave an introduction about the company and how Artificial Intelligence is implemented within them and used by the company workforce. In the context of such a diversified giant company, Artificial Intelligence assumes an essential role within the context of improved decision making and the delivery of services within the agricultural business sector, healthcare, food retail, and infrastructure.Further tips from the company's perspective were provided by Mr. Yusri Mohamed himself. The key takeaways from this session are that one needs to know about the company as well as the job that has been applied for.
+From this, I was able to learn that companies place a high premium on people with dedication to improvement. Moreover, it was made clear that it could be an advantageous thing to be educated about AI, with the increase in its use in various services.
