@@ -66,3 +66,9 @@ From this, I was able to learn that companies place a high premium on people wit
 # INDUSTRY TALK ONLINE
 ![talk](https://raw.githubusercontent.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/main/photo_2026-01-18_19-13-27.jpg)
 
+This enlightening online talk on 14/1/2026 gave great insight into the broad-scale business operations of PPG and its inner data systems. He went a step further by explaining the workflow of data by using a restaurant analogy: raw data is ingredients, processing is cooking, and final reports are meals. It made the technical process intuitive and easy to understand. I appreciated the fact that IT challenges like firewalls, VPNs, and network constraints were discussed pragmatically; it showed real-world experience during the session. Also, I found it both relatable and an inspiration to listen to his career path from being an intern himself to a senior developer. By and large, the presentation was well-connected, showing business requirements with technical implementation and how data gets converted into meaningful insights within a global corporation.
+
+# PRESENTATION PROJECT DAY
+![pre](https://raw.githubusercontent.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/main/WhatsApp%20Image%202026-01-15%20at%2018.55.07.jpeg)
+
+Cohort 10 section 2 TIS has already presented the project in the class on the date 15/1/2026. By doing this, we gained more idea from lecture and increase our confident. In the fact, we feel a little bit afraight. However, in order to make the presentation more perfect, we try to overcome this afraight. 
