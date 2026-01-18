@@ -62,3 +62,7 @@ project:[PROJECT](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM
 
 On 7/1/2026, I got opportunity to attend an industry visit to company JCORP in Johor Bahru 。Mr. Budiman Bujang gave an introduction about the company and how Artificial Intelligence is implemented within them and used by the company workforce. In the context of such a diversified giant company, Artificial Intelligence assumes an essential role within the context of improved decision making and the delivery of services within the agricultural business sector, healthcare, food retail, and infrastructure.Further tips from the company's perspective were provided by Mr. Yusri Mohamed himself. The key takeaways from this session are that one needs to know about the company as well as the job that has been applied for.
 From this, I was able to learn that companies place a high premium on people with dedication to improvement. Moreover, it was made clear that it could be an advantageous thing to be educated about AI, with the increase in its use in various services.
+
+# INDUSTRY TALK ONLINE
+![talk](https://raw.githubusercontent.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/main/photo_2026-01-18_19-13-27.jpg)
+
