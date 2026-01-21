@@ -119,8 +119,12 @@ Communication skills between different ethnics were enhanced by this project. Be
 3. Future Industry Potential
    
 To enhance potential in the industry, more reading is planned so that more ideas about design thinking can be generated and deeper insights can be gained through YouTube, news, and other platforms. More focus will also be placed on understanding concepts, and learning will be continued regardless of whether it is in the future or currently. Additionally, more projects will be done by joining a club, such as Airost, so that more can be learned.
+|**DESIGN THINKING PROJECT**|   CLICK  | 
+|-------------|---------------------------------|
+|**PROJECT**|   [PROJECT](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/blob/main/DESIGN%20THINKING%20GROUP6.docx) | 
+| **VIDEO**|  [PROJECTVIDEO](https://youtu.be/L8OORM-LJPc?feature=shared)  | 
+| **DESIGNPORTFOLIO**|   [DESGIN](https://www.canva.com/design/DAG7ZGAaoWw/cQFqHCFDWK7FV3sBAiiqTg/edit?utm_content=DAG7ZGAaoWw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
 
-project:[PROJECT](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/blob/main/DESIGN%20THINKING%20GROUP6.docx)
 
 # INDUSRTY VISIT TO JCORP
 ![visit](https://raw.githubusercontent.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/main/WhatsApp%20Image%202026-01-08%20at%2012.32.54.jpeg)
@@ -179,3 +183,5 @@ The task of presenting the project to the gathered class and professors was full
 2. Massive Boost to Team Confidence A very powerful catalyst for confidence building was marked by successfully negotiating the presentation. From the moment the team was introduced right through to the last question being answered, the group's assurance was grown. A deep sense of ownership and competence was instilled by the knowledge required to explain and defend the material in public. It is expected that this rise in self-efficacy will be spilled over into future academic defenses, client pitches, and professional communications.
 
 3. Building Resilience Under Pressure A case study in how performance anxiety is dealt with and how thinking on one's feet is managed was provided. The ability to adapt and the mastery of the topic were tested during the dynamic Q&A session.
+
+PROJECT SLIDE: [PRESENTSLIDE](https://www.canva.com/design/DAG9FQpYsvY/6Sg6AvQSxlH07DXAta4wCg/edit?utm_content=DAG9FQpYsvY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
