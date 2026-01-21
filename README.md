@@ -138,6 +138,8 @@ In the context of such a diversified giant company, an essential role is assumed
 
 From this visit, it was learned that a high premium is placed by companies on people with a dedication to improvement. Moreover, it was made clear that being educated about AI could be considered an advantageous thing, given the increase in its use across various services.
 
+ASSIGNMENT 4:[NEWSLETTER](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/blob/main/newsletter.pdf)
+
 # INDUSTRY TALK ONLINE
 ![talk](https://raw.githubusercontent.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/main/photo_2026-01-18_19-13-27.jpg)
 
