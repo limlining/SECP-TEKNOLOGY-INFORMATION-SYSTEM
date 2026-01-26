@@ -19,6 +19,10 @@
 
     On 28/10/2025 at UTM DIGITAL 
 
+    GROUP MEMBER: LIM LI NING, NURAIN NABILAH BINTI AZMAN，NAJLA AUNI BINTI MOHAMAD ASRI
+        
+    GROUP NAME：DataSynergy
+
 On 28/10/2025, UTM DIGITAL was attended by SECP students. The booths were visited and a talk from UTM staff was attended by everyone.
 
 The UTM Digital Open Day 2025 was visited by almost 100 students, who were accompanied by the lecturer, Dr. Aryati Bt. Bakri, the Academic Assistant Coordinator of Data Engineering. During the visit, time was spent at many interesting booths where creative innovative projects and ideas were featured.
@@ -40,6 +44,10 @@ During the process, the fan, the heat sink, the RAM, and even the hard drive and
 
     On 20 Nov 2025 at HyFlex Classroom, N28a, UTM
 
+    GROUP MEMBER: LIM LI NING, NURAIN NABILAH BINTI AZMAN，NAJLA AUNI BINTI MOHAMAD ASRI
+    
+    GROUP NAME：DataSynergy
+    
     SPEAKER:
 
     1.Ooi Ai Ling(Associate Director, APAC IT Lead)
@@ -81,6 +89,10 @@ Inspiration was also drawn from how quantum research is planned carefully and is
 
     On 18 Dec 2025 at HyFlex Classroom, N28a, UTM
 
+    GROUP MEMBER: LIM LI NING, NURAIN NABILAH BINTI AZMAN，NAJLA AUNI BINTI MOHAMAD ASRI
+
+    GROUP NAME：DataSynergy
+
     Speaker:
 
     Ts. Hj. Abdul Alim Bin Abdul Muttalib
@@ -100,9 +112,9 @@ assignment: [ASSIGNMEMT](https://github.com/limlining/SECP-TEKNOLOGY-INFORMATION
 # DESIGN THINKING PROJECT
 ![lab2](https://raw.githubusercontent.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/main/Screenshot%202025-12-30%20224515.png)
 
-    Our team: LIM LI NING, NURAIN NABILAH BINTI AZMAN，NAJLA AUNI BINTI MOHAMAD ASRI
+    GROUP MEMBER: LIM LI NING, NURAIN NABILAH BINTI AZMAN，NAJLA AUNI BINTI MOHAMAD ASRI
 
-    group name: DataSynergy
+     GROUP NAME：DataSynergy
  
     project name:CampusSpot
 
@@ -130,6 +142,10 @@ To enhance potential in the industry, more reading is planned so that more ideas
 ![visit](https://raw.githubusercontent.com/limlining/SECP-TEKNOLOGY-INFORMATION-SYSTEM/main/WhatsApp%20Image%202026-01-08%20at%2012.32.54.jpeg)
 
     On 7/1/2026 at JCORP JB
+
+    GROUP MEMBER: LIM LI NING, NURAIN NABILAH BINTI AZMAN，NAJLA AUNI BINTI MOHAMAD ASRI
+    
+    GROUP NAME：DataSynergy
 
     JCorp is being transformed because it is going to become an “AI-First Investment Holding Company.” This involves leaving the conventional top-down structure and moving on to the “Agentic Enterprise” 
     structure.   This structure is going to be “decentralized and comprised of self-owned agents that are treated as separate units.”
@@ -174,7 +190,9 @@ By and large, the presentation was seen as well-connected, with business require
 
     LECTURE:  Dr. Aryati Bt. Bakri
 
-    group name：DataSynergy
+    GROUP MEMBER: LIM LI NING, NURAIN NABILAH BINTI AZMAN，NAJLA AUNI BINTI MOHAMAD ASRI
+     
+    GROUP NAME：DataSynergy
 
 The task of presenting the project to the gathered class and professors was fully accomplished by Cohort 10, Section 2 of the TIS program. The findings from in-depth research were formally conveyed, and processes were discussed in a setting where those findings were scrutinized. This was the result of weeks of hard work, research, and analysis. Several significant benefits that extended far beyond the simple delivery of content were yielded, and the presentation was proved to be an invaluable exercise in professional and academic development.
 
